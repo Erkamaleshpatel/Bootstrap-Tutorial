@@ -1,0 +1,44 @@
+*{
+  margin-bottom: 10px;
+} .container-fluid{
+    border: 2px solid black;
+}
+.container{
+    border: 2px solid hsl(244, 84%, 48%);
+}
+.row{
+  border: 2px solid red;
+}
+.col{
+  border: 2px solid green;
+}
+.col,.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+  border: 2px solid green;
+}
+
+
+/* ####### Gride Web Page ################## */
+#main_div{
+  background: grey;
+}
+#header{
+  background: orange;
+}
+#menu{
+  background: palevioletred;
+}
+#menu ul{
+  list-style: none;
+}
+#menu ul li{
+  display: inline-block;
+}
+#content{
+  background: yellow;
+}
+#sidebar{
+  background: yellowgreen;
+}
+#footer{
+  background: orange;
+}
