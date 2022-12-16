@@ -1,6 +1,31 @@
 *{
   margin-bottom: 10px;
-} .container-fluid{
+} 
+
+/* ################## Utiiti Class ############# */
+.pink{
+  background: pink;
+  border: 2px solid black;
+}
+.green{
+  background: rgb(192, 255, 192);
+  border: 2px solid black;
+}
+.red{
+  background: red;
+  border: 2px solid black;
+}
+.blue{
+  background: rgb(0, 4, 255);
+  border: 2px solid black;
+}
+
+
+
+
+
+/* ################## */
+.container-fluid{
     border: 2px solid black;
 }
 .container{
@@ -47,10 +72,5 @@
 .col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12
 {
   border: 2px solid rgb(0, 0, 0);
-}
-.pink{
-  background: pink;
-}
-.green{
-  background: rgb(192, 255, 192);
+
 }
