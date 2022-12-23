@@ -2,7 +2,7 @@
   margin-bottom: 10px;
 }  */
 
-/* ################## Utiiti Class ############# */
+/* ################## Uttiiti Class ############# */
 .pink{
   background: pink;
   
@@ -20,6 +20,10 @@
  
 }
 .black{
+  border: 2px solid black;
+}
+
+.border{
   border: 2px solid black;
 }
 
