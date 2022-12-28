@@ -105,3 +105,14 @@
   height: 400px;
 }
 
+/* ############# NAV Bare ##################### */
+.nav{
+  background: darkcyan;
+}
+.nav-link{
+  color: wheat;
+}
+.nav-link:hover{
+  color: wheat;
+  background: sandybrown;
+}
